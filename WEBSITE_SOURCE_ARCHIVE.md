@@ -1,10 +1,10 @@
 # Website source archive
 
-The complete website source is stored in four archive parts:
+The complete website source is stored in **65 archive parts**:
 
-`aroi-lert.com.zip.part-00` through `aroi-lert.com.zip.part-03`.
+`aroi-lert.com.zip.part-00` through `aroi-lert.com.zip.part-64`.
 
-On macOS or Linux, download all four files into one folder and run:
+On macOS or Linux, download all 65 files into one folder and run:
 
 ```sh
 cat aroi-lert.com.zip.part-* > aroi-lert.com.zip
